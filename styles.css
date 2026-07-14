@@ -1,0 +1,65 @@
+.header {
+    display: flex;
+    background-image: url('pictures/tiberiansun.png');
+    height: 500px;
+    
+
+}
+
+
+#title {
+    display: flex;
+    padding: 20px;
+    margin-left: 1100px;
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+#titletwo {
+    display: flex;
+    padding: 20px;
+    margin-left: 1100px;
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.prerequisites {
+    display:flex;
+    flex-direction: column;
+    text-decoration: none;
+
+}
+
+a {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    padding: 10px;
+
+}
+
+li {
+    display: flex;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.text {
+    display: flex;
+    color: white;
+}
+
+.aa {
+    background: url(Pictures/factions.png);
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+}
+
+
+
+

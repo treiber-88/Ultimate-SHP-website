@@ -1,0 +1,1 @@
+//alert("Ultimate SHP is currently only supported on Windows 11! It may work on Linux through Appimage but who knows.")
