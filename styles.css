@@ -1,19 +1,14 @@
-.header {
-    display: flex;
-    background-image: url('pictures/tiberiansun.png');
-    height: 500px;
-    
 
-}
 
 
 #title {
     display: flex;
-    padding: 20px;
-    margin-left: 1100px;
     color: red;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 50px;
+    font-size: 80px;
+    margin-bottom: 1px;
+    margin-right: 1px;
+    height: 1px;
 }
 
 #titletwo {
@@ -56,9 +51,131 @@ li {
 .aa {
     background: url(Pictures/factions.png);
     width: 200px;
-    height: 100px;
+    height: 117px;
     padding: 20px;
+    align-items: center;
 }
+
+.descriptiontxt {
+    display: flex;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 100px;
+
+}
+
+.b {
+    display: flex;
+    background: url(Pictures/Nod.webp);
+    height: 100px;
+    width: 123px;
+    padding: 10px;
+}
+
+.c {
+    display: flex;
+    background: url(Pictures/GDI.webp);
+    height: 120px;
+    width: 123px;
+    padding: 15px;
+}
+
+.download {
+    font-weight: 40px;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    
+
+}
+
+.note {
+    display: flex;
+         background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    margin-right: 1200px;
+
+}
+
+body {
+    background-image: url(Pictures/redalert2.png);
+      background-repeat: no-repeat;
+}
+
+.textb {
+    display: flex;
+    color: red;
+     background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    margin-right: 1200px;
+}
+
+.notea {
+    display: flex;
+      background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    font-size: 15px;
+}
+
+
+.footer {
+    display: flex;
+    background-image: url('pictures/tiberiansun.png');
+    height: 500px;
+    
+
+}
+
+.capabilities {
+    display: flex;
+    margin-top: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text {
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+
+}
+
+#download {
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+
+}
+
+#downloada {
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+
+}
+
+.use {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#galleryb {
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    color: red;
+    margin-top: 0px;
+    flex-direction: row;
+    padding-bottom: 50px;
+    justify-content: flex-end;    
+}
+
+
+
+
 
 
 

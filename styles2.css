@@ -1,0 +1,19 @@
+.picture {
+    display: grid;
+    height: 200px;
+    width: 150px;
+    object-fit: cover;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    text-align: center;
+    position: relative;
+    border-radius: 12px;
+}
+
+#undertext {
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center; 
+
+  
+}
