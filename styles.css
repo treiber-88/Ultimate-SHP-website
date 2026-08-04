@@ -57,11 +57,13 @@ li {
     align-items: center;
 }
 
+
+
 .descriptiontxt {
     display: flex;
     font-size: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-top: 100px;
+    margin-top: 300px;
 
 }
 
@@ -126,13 +128,27 @@ body {
     display: flex;
     background-image: url('pictures/tiberiansun.png');
     height: 500px;
-    
+}
+
+#descriptiontxt2 {
+    display: flex;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 480px;
 
 }
+
+
 
 .capabilities {
     display: flex;
     margin-top: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#capabilities2 {
+    display: flex;
+    margin-top: 70px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
