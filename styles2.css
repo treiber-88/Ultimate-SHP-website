@@ -27,7 +27,7 @@
     margin-top: 0px;
     flex-direction: row;
     padding-bottom: 50px;
-    justify-content: flex-end;    
+    
 }
 
 
@@ -63,7 +63,17 @@
     position: relative;
     padding: 100px;
     margin-left: 350px;
-    
-    
-    
+       
+}
+
+
+button {
+    display: flex;
+    background-color: black;
+}
+
+.backmnpg {
+    display: flex;
+    color: white;
+    text-decoration: none;
 }

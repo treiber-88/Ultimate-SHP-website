@@ -23,8 +23,9 @@
 
 .prerequisites {
     display:flex;
-    flex-direction: column;
+    flex-direction: row;
     text-decoration: none;
+    /*justify-content: center;*/
 
 }
 
@@ -109,7 +110,7 @@ body {
      background-color: rgba(255, 255, 255, 0.3);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    margin-right: 1200px;
+    /*margin-right: 1200px;*/
 }
 
 .notea {
