@@ -1,0 +1,64 @@
+.header {
+    display: flex;
+    background: radial-gradient(circle, #165c28 0%, #089e42 100%);
+    flex-direction: row;
+    justify-content: center;
+}
+
+.header-text {
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    size: 20px;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.games-tools-mods {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10%;
+    margin-top: 5%;
+}
+
+.header-dropdown-games {
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+    background: radial-gradient(circle, #165c28 0%, #089e42 100%);
+    border-radius: 10%;
+}
+
+.header-dropdown-mods {
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+    background: radial-gradient(circle, #165c28 0%, #089e42 100%);
+    border-radius: 10%;
+}
+
+.header-dropdown-tools {
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+    background: radial-gradient(circle, #165c28 0%, #089e42 100%);
+    border-radius: 10%;
+}
+
+.content-class {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+a {
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    flex-direction: column;
+    align-items: center;
+}
+
+body {
+    background: radial-gradient(circle, #000000 0%, #2b2929 100%);
+}
