@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background: radial-gradient(circle, #000000 0%, #252525 100%);
+    padding: 0%;
+    border-radius: 10px;
+}
+
+h3 {
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white
+}
+
+body {
+    background: radial-gradient(circle, #1c1a79 0%, #728eda 100%);
+}
+
+button {
+    display: flex;
+    color: black;
+    background-color: black;
+}
+
+a {
+    display: flex;
+    text-decoration: none;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
