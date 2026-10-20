@@ -27,3 +27,28 @@
 body {
     background: radial-gradient(circle, #b60c0c 0%, #923b3b 100%);
 }
+
+h3 {
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button {
+    display: flex;
+    color: black;
+    background-color: black;
+}
+
+a {
+    display: flex;
+    text-decoration: none;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.backtxt {
+    display: flex;
+    text-decoration: none;
+    color: rgb(29, 27, 27);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
